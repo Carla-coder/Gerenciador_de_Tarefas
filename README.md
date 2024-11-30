@@ -77,7 +77,7 @@ npx nodemon
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
 Print das Telas
 
